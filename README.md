@@ -1,7 +1,7 @@
 # 2048: Women in Computing Edition!
 A modified version of [2048](https://github.com/gabrielecirulli/2048) to honor historical women in computing.
 
-Made just for fun. [Play it here!](http://elkinsa.github.io/2048/)
+Made just for fun. [Play it here!](http://elkinsa.github.io/2048-WC/)
 
 ### Screenshot
 
